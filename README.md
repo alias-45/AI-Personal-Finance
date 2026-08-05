@@ -44,7 +44,7 @@ AI-Personal-Finance-Dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ALIAS-45/AI-Personal-Finance-Dashboard.git
+git clone https://github.com/alias-45/AI-Personal-Finance-Dashboard.git
 ```
 
 ### 2. Navigate to the project
